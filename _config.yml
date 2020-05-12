@@ -324,7 +324,7 @@ post_wordcount:
 # Wechat Subscriber
 wechat_subscriber:
   enabled: true
-  qcode: source/images/wechat-qcode.jpg
+  qcode: /source/images/wechat-qcode.jpg
   description: 欢迎关注我的微信公众号
   
 # Declare license on posts
