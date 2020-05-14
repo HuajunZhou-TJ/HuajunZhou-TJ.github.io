@@ -237,7 +237,7 @@ avatar: source/images/avatar.jpg
 
 
 # Table Of Contents in the Sidebar
-toc:/
+toc:
   enable: true
 
   # Automatically add list number to toc.
