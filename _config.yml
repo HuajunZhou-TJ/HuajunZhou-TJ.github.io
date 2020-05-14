@@ -237,7 +237,7 @@ avatar: source/images/avatar.jpg
 
 
 # Table Of Contents in the Sidebar
-toc:
+toc:/
   enable: true
 
   # Automatically add list number to toc.
@@ -256,8 +256,8 @@ toc:
 
 sidebar:
   # Sidebar Position, available value: left | right
-  position: left
-  #position: right
+  # position: left
+  position: right
 
   # Sidebar Display, available value:
   #  - post    expand on posts automatically. Default.
